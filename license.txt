@@ -1,0 +1,24 @@
+XeosScript (All Rights Reserved 2025)
+
+This website is a private project with its source code publicly available for the purposes of demonstrating reliability, educational use, and free hosting. Unauthorized modification or reproduction of this website or its source code is strictly prohibited.
+
+Expanded Version (with explanations):
+
+XeosScript (All Rights Reserved 2025)
+
+This website, known as XeosScript, is a private project. However, the source code is publicly available, allowing users to inspect it and learn from its structure. This availability is intended to demonstrate the project’s reliability, to provide educational examples, and to enable free hosting of the project.
+
+License Terms:
+
+All rights to XeosScript are reserved by the copyright holder. This means that you are not permitted to:
+
+Modify the Website or its Source Code: Altering the code in any way is prohibited without express permission.
+Reproduce the Website or its Source Code: Copying or distributing the website or its source code, in whole or in part, is not allowed.
+Create Derivative Works: You cannot create new works based on the XeosScript code.
+Permitted Uses:
+
+You are permitted to:
+
+View the Source Code: You are welcome to inspect the source code for educational purposes.
+Use the Website: You can use the website as it is intended.
+This license is intended to allow viewing and learning, but to prevent commercial use or modification without permission.
