@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pass checker</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Pass checker</h1>
+
+<label for="password">Введите пароль:</label>
+<input type="text" id="password" name="password">
+
+<button id="generateButton">Сгенерировать Пароль</button>
+
+<div class="progress-container">
+  <label for="strengthProgress">Надежность:</label>
+  <progress id="strengthProgress" value="0" max="100"></progress>
+  <span id="strengthLabel">Слабый</span>
+</div>
+
+<div id="result">
+  <p id="entropy">Энтропия: 0 бит</p>
+  <p id="combinations">Комбинаций: 0</p>
+  <p>Вероятное время взлома при различной скорости перебора:</p>
+  <table id="crackTimes">
+    <thead>
+    <tr>
+      <th>Скорость</th>
+      <th>Время</th>
+    </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+<footer>
+  <p><a href="st/st.html">Подробнее о проекте</a></p>
+  <p><a href="https://boosty.to/xeosscript">Поддержать проект</a></p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
